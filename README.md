@@ -21,14 +21,14 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 ---
 
 ## 2. Marketing Channel Performance Analysis  
-**Tools:** Power BI, SQL, Python  
+**Tools:** Power BI, Python  
 **Description:**  
 - Evaluated marketing spend efficiency across Google Ads, Facebook Ads, and Organic channels.  
 - Analyzed ROAS (Return on Ad Spend), revenue trends, and paid vs. non-paid session distribution.  
 - Identified Google Ads as the most profitable channel and suggested improvements for Facebook Ads.  
 - Supported marketing teams with strategies to optimize ad budgets.  
-![Marketing Dashboard](./Images/marketing_dashboard.png)  
-**[View Project Repository ➝](https://github.com/YourUsername/Marketing-Performance-Analysis)**  
+![Marketing Dashboard](/Images/Marketing-Analysis.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/-Marketing-Channel-Performance-Analysis)**  
 
 ---
 
@@ -39,8 +39,8 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Explored female enrollment, graduation, and dropout rates linked with gender gap indexes.  
 - Provided insights into how gender inequality impacts STEM graduation rates.  
 - Supported diversity and inclusion efforts with data-driven evidence.  
-![Women in STEM Dashboard](./Images/women_in_stem.png)  
-**[View Project Repository ➝](https://github.com/YourUsername/Women-in-STEM-Analysis)**  
+![Women in STEM Dashboard](Images/Women in STEM.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/Women-in-STEM-Analysis)**  
 
 ---
 
@@ -51,32 +51,32 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Visualized crime distribution by type, state, and year.  
 - Identified high-frequency crimes such as Robbery and Domestic Violence.  
 - Helped policymakers and law enforcement with data-driven crime prevention strategies.  
-![Crime Analysis Dashboard](./Images/mexico_crime.png)  
-**[View Project Repository ➝](https://github.com/YourUsername/Mexico-Crime-Analysis)**  
+![Crime Analysis Dashboard](Images/Mexico_Crime -Analysis.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/Mexico-Crime-Analysis)**  
 
 ---
 
 ## 5. Global COVID-19 Impact Analysis  
-**Tools:** Power BI, Excel  
+**Tools:** Power BI, Python 
 **Description:**  
 - Investigated COVID-19’s global impact, including total cases, deaths, vaccinations, and government responses.  
 - Analyzed the correlation between male smoking rates and COVID-19 mortality rates.  
 - Visualized trends in cases, deaths, testing, and vaccination over time and across regions.  
 - Supported public health policy analysis with insightful dashboards.  
-![COVID-19 Dashboard](./Images/covid_dashboard.png)  
-**[View Project Repository ➝](https://github.com/YourUsername/COVID19-Impact-Analysis)**  
+![COVID-19 Dashboard](Images/Covid19.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/Global-COVID-19-Impact-Analysis)**   
 
 ---
 
 ## 6. E-commerce Sales & Customer Insights  
-**Tools:** Power BI, SQL, Excel  
+**Tools:** Power BI, Python 
 **Description:**  
 - Built an interactive dashboard to analyze sales, customer behavior, and shipping efficiency.  
 - Tracked revenue by category (Technology, Furniture, Office Supplies) and region over time.  
 - Provided insights to improve customer retention, delivery operations, and sales growth.  
 - Supported management decisions with clear, data-driven reports.  
-![E-commerce Dashboard](./Images/ecommerce_dashboard.png)  
-**[View Project Repository ➝](https://github.com/YourUsername/Ecommerce-Sales-Insights)**  
+![E-commerce Dashboard](Images/Sales store Dashboard.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/e-commerce-sales-analysis)**  
 
 ---
 
