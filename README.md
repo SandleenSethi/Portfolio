@@ -39,7 +39,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Explored female enrollment, graduation, and dropout rates linked with gender gap indexes.  
 - Provided insights into how gender inequality impacts STEM graduation rates.  
 - Supported diversity and inclusion efforts with data-driven evidence.  
-![Women in STEM Dashboard](Image/Women inSTEM.png)  
+![Women in STEM Dashboard](Image/Women-in-STEM.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Women-in-STEM-Analysis)**  
 
 ---
@@ -51,7 +51,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Visualized crime distribution by type, state, and year.  
 - Identified high-frequency crimes such as Robbery and Domestic Violence.  
 - Helped policymakers and law enforcement with data-driven crime prevention strategies.  
-![Crime Analysis Dashboard](Image/Mexico-Crime -Analysis.png)  
+![Crime Analysis Dashboard](Image/Mexico-Crime-Analysis.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Mexico-Crime-Analysis)**  
 
 ---
