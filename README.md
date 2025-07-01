@@ -100,7 +100,7 @@ I am a self-driven data analyst with strong skills in SQL, Python, Power BI, Exc
 
 - **Email:** sandleensethi09@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/sandleen-sethi-776998335/](#) 
-- **GitHub:** [https://github.com/Sandleen Sethi](#)  
+- **GitHub:** [https://github.com/SandleenSethi](#)  
 
 ---
 
