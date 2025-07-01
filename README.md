@@ -39,7 +39,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Explored female enrollment, graduation, and dropout rates linked with gender gap indexes.  
 - Provided insights into how gender inequality impacts STEM graduation rates.  
 - Supported diversity and inclusion efforts with data-driven evidence.  
-![Women in STEM Dashboard](Image/Women in STEM.png)  
+![Women in STEM Dashboard](Image/Women inSTEM.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Women-in-STEM-Analysis)**  
 
 ---
