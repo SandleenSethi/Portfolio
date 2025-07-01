@@ -15,7 +15,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Identified peak sales months (June and December) and top customer age groups (31–50).  
 - Visualized revenue by product categories: Electronics, Clothing, Beauty.  
 - Provided actionable insights to improve marketing strategies and inventory management.  
-![Retail Sales Dashboard](./Images/retail_dashboard.png)  
+![Retail Sales Dashboard](./Images/Retail-Sales-Analysis.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Retail-Sales-Analysis)**  
 
 ---
