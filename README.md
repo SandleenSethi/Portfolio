@@ -75,7 +75,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Tracked revenue by category (Technology, Furniture, Office Supplies) and region over time.  
 - Provided insights to improve customer retention, delivery operations, and sales growth.  
 - Supported management decisions with clear, data-driven reports.  
-![E-commerce Dashboard](Image/Sales store dashboard.png)  
+![E-commerce Dashboard](Image/Sales-store-Analysis.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/e-commerce-sales-analysis)**  
 
 ---
