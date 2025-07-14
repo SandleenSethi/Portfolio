@@ -39,7 +39,8 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Identified Books and Clothing as top-performing product categories by volume and revenue.  
 - Investigated declining revenue in 2023 and highlighted retention strategies based on recency and frequency analysis.  
 - Provided actionable insights to optimize marketing segmentation, product listings, and loyalty programs.  
-![Customer Dashboard](Image/CustomerBehaviourDashboard.png) (Image/CustomerDeepDrive.png)  
+![Customer Dashboard](Image/CustomerBehaviourDashboard.png)
+![Customer Dashboard](Image/CustomerDeepDrive.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Ecommerce-Customer-Behaviour)**  
 
 
