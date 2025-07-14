@@ -31,8 +31,20 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 **[View Project Repository ➝](https://github.com/SandleenSethi/-Marketing-Channel-Performance-Analysis)**  
 
 ---
+## 3. E-commerce Customer Behavior & Deep Dive Dashboard  
+**Tools:** Power BI, Python  
+**Description:**  
+- Analyzed customer demographics, spending behavior, and product return trends across age and gender groups.  
+- Tracked KPIs such as total revenue (177M), average order spend (50K), and customer base (13K).  
+- Identified Books and Clothing as top-performing product categories by volume and revenue.  
+- Investigated declining revenue in 2023 and highlighted retention strategies based on recency and frequency analysis.  
+- Provided actionable insights to optimize marketing segmentation, product listings, and loyalty programs.  
+![Customer Dashboard](Image/Ecommerce-Customer-Behavior.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/Ecommerce-Customer-Behaviour)**  
 
-## 3. Women in STEM – Global Analysis  
+
+
+## 4. Women in STEM – Global Analysis  
 **Tools:** Power BI, Excel, Python  
 **Description:**  
 - Analyzed gender participation in STEM fields across six countries.  
@@ -43,8 +55,19 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 **[View Project Repository ➝](https://github.com/SandleenSethi/Women-in-STEM-Analysis)**  
 
 ---
+## 5. Economic Indicators & Country Comparison Dashboard  
+**Tools:** Tableau, Excel, Python, World Bank API     
+**Description:**  
+- Built a multi-country dashboard to analyze GDP, inflation, and school enrollment from 2000 to 2022.  
+- Retrieved real-time data using the World Bank API and automated updates through Python scripts.  
+- Compared economic indicators for Pakistan, India, and Bangladesh using time-series and correlation analysis.  
+- Identified Bangladesh’s strong educational performance (98.2% enrollment) and India’s leading GDP growth.  
+- Delivered insights to support economic planning, education investment, and public policy recommendations.  
+![Economic Dashboard](Image/Economic-Indicators.png)  
+**[View Project Repository ➝](https://github.com/SandleenSethi/-Economic-Indicators-Country-Comparison)
 
-## 4. Mexico Crime Analysis Dashboard  
+
+## 6. Mexico Crime Analysis Dashboard  
 **Tools:** Power BI, Power Query  
 **Description:**  
 - Analyzed crime data from 2015 to 2023 across Mexican states.  
@@ -56,7 +79,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 
 ---
 
-## 5. Global COVID-19 Impact Analysis  
+## 7. Global COVID-19 Impact Analysis  
 **Tools:** Power BI, Python 
 **Description:**  
 - Investigated COVID-19’s global impact, including total cases, deaths, vaccinations, and government responses.  
@@ -68,7 +91,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 
 ---
 
-## 6. E-commerce Sales & Customer Insights  
+## 8. E-commerce Sales & Customer Insights  
 **Tools:** Power BI, Python 
 **Description:**  
 - Built an interactive dashboard to analyze sales, customer behavior, and shipping efficiency.  
@@ -88,10 +111,11 @@ I am a self-driven data analyst with strong skills in SQL, Python, Power BI, Exc
 
 ## Tools & Skills  
 
-- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Web Scraping:** BeautifulSoup, Selenium, API Integration (RESTful APIs)  
 - **Databases:** SQL (MySQL)  
 - **Data Analysis:** EDA, Data Cleaning, Power Query  
-- **Visualization:** Power BI, Excel  
+- **Visualization:** Power BI,Tableau, Excel  
 - **Techniques:** Dashboard Development, Statistical Analysis, Data Storytelling  
 
 ---
