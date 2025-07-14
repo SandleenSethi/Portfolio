@@ -39,7 +39,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Identified Books and Clothing as top-performing product categories by volume and revenue.  
 - Investigated declining revenue in 2023 and highlighted retention strategies based on recency and frequency analysis.  
 - Provided actionable insights to optimize marketing segmentation, product listings, and loyalty programs.  
-![Customer Dashboard](Image/Ecommerce-Customer-Behavior.png)  
+![Customer Dashboard](Image/CustomerBehaviourDashboard.png) (Image/CustomerDeepDrive.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Ecommerce-Customer-Behaviour)**  
 
 
@@ -63,7 +63,7 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Compared economic indicators for Pakistan, India, and Bangladesh using time-series and correlation analysis.  
 - Identified Bangladesh’s strong educational performance (98.2% enrollment) and India’s leading GDP growth.  
 - Delivered insights to support economic planning, education investment, and public policy recommendations.  
-![Economic Dashboard](Image/Economic-Indicators.png)  
+![Economic Dashboard](Image/EconomicIndicatorsDashboard.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/-Economic-Indicators-Country-Comparison)
 
 
