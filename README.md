@@ -61,7 +61,7 @@ Consistently identifies evaluation, projects, and overwork as strongest drivers 
 
 
 
-## 1. Retail Sales Analytics Dashboard  
+## 2. Retail Sales Analytics Dashboard  
 **Tools:** Power BI, SQL  
 **Description:**  
 - Analyzed revenue trends, customer demographics, and product performance.  
@@ -71,17 +71,6 @@ Consistently identifies evaluation, projects, and overwork as strongest drivers 
 ![Retail Sales Dashboard](Image/Retail-Sales-Analysis.png)  
 **[View Project Repository ➝](https://github.com/SandleenSethi/Retail-Sales-Analysis)**  
 
----
-
-## 2. Marketing Channel Performance Analysis  
-**Tools:** Power BI, Python  
-**Description:**  
-- Evaluated marketing spend efficiency across Google Ads, Facebook Ads, and Organic channels.  
-- Analyzed ROAS (Return on Ad Spend), revenue trends, and paid vs. non-paid session distribution.  
-- Identified Google Ads as the most profitable channel and suggested improvements for Facebook Ads.  
-- Supported marketing teams with strategies to optimize ad budgets.  
-![Marketing Dashboard](Image/Marketing-Analysis.png)  
-**[View Project Repository ➝](https://github.com/SandleenSethi/-Marketing-Channel-Performance-Analysis)**  
 
 ---
 ## 3. E-commerce Customer Behavior & Deep Dive Dashboard  
@@ -133,35 +122,15 @@ Consistently identifies evaluation, projects, and overwork as strongest drivers 
 
 ---
 
-## 7. Global COVID-19 Impact Analysis  
-**Tools:** Power BI, Python 
-**Description:**  
-- Investigated COVID-19’s global impact, including total cases, deaths, vaccinations, and government responses.  
-- Analyzed the correlation between male smoking rates and COVID-19 mortality rates.  
-- Visualized trends in cases, deaths, testing, and vaccination over time and across regions.  
-- Supported public health policy analysis with insightful dashboards.  
-![COVID-19 Dashboard](Image/Covid19.png)  
-**[View Project Repository ➝](https://github.com/SandleenSethi/Global-COVID-19-Impact-Analysis)**   
 
----
-
-## 8. E-commerce Sales & Customer Insights  
-**Tools:** Power BI, Python 
-**Description:**  
-- Built an interactive dashboard to analyze sales, customer behavior, and shipping efficiency.  
-- Tracked revenue by category (Technology, Furniture, Office Supplies) and region over time.  
-- Provided insights to improve customer retention, delivery operations, and sales growth.  
-- Supported management decisions with clear, data-driven reports.  
-![E-commerce Dashboard](Image/Sales-store-Analysis.png)  
-**[View Project Repository ➝](https://github.com/SandleenSethi/e-commerce-sales-analysis)**  
-
----
 
 ## About Me  
 
-I am a self-driven data analyst with strong skills in SQL, Python, Power BI, Excel, and data storytelling. My passion lies in turning complex data into actionable insights. Currently pursuing a Bachelor's degree in Information Technology, I am constantly expanding my knowledge in data analysis, visualization, and business intelligence.
+I am a results-oriented Data Analyst, currently pursuing a Bachelor’s in Information Technology and building on a strong foundation of both technical and transferable skills. The Google Data Analytics Professional Certificate has provided me with practical experience across a range of key areas, including data cleaning in Python, statistical analysis, and machine learning fundamentals. I culminated this learning with an Advanced Analytics Capstone Project, where I leveraged my skills to extract meaningful insights from a complex dataset.
 
----
+    I possess strong time management, problem-solving, and collaboration skills, which enable me to navigate complex data challenges with clarity and creativity. My passion lies in turning raw data into compelling narratives that support strategic decision-making. I'm actively seeking remote opportunities where I can apply my technical expertise and passion for data to drive innovation and contribute to a global team.
+
+
 
 ## Tools & Skills  
 
