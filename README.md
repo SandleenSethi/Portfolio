@@ -30,7 +30,7 @@ Compares employees who left vs. stayed across key groups.
 
 ---
 
-### 🤖 Modeling & Results
+###  Modeling & Results
 
 **Logistic Regression – Confusion Matrix**  
 Baseline model achieved ~82% accuracy.  
