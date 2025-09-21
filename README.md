@@ -7,6 +7,19 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 ## Projects
 
 ---
+## 1. HR Analytics & Attrition Prediction (Capstone Project)
+
+**Tools**: Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)  
+
+
+**Description**:  
+- Explored HR dataset (15,000 employees) to identify drivers of employee attrition.  
+- Conducted EDA: attrition strongly linked to **overwork**, **low satisfaction**, and **4-year tenure dips**.  
+- Built predictive models: **Random Forest achieved 96% accuracy and 0.94 AUC**.  
+- Delivered actionable recommendations for HR: cap project load, address burnout, and refine promotion/evaluation policies.  
+**[View Project Repository ➝](https://github.com/SandleenSethi/Salifort-Motors)** 
+
+
 
 ## 1. Retail Sales Analytics Dashboard  
 **Tools:** Power BI, SQL  
