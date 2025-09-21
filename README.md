@@ -16,7 +16,47 @@ Welcome to my data analytics portfolio! I am a self-taught data analyst skilled 
 - Explored HR dataset (15,000 employees) to identify drivers of employee attrition.  
 - Conducted EDA: attrition strongly linked to **overwork**, **low satisfaction**, and **4-year tenure dips**.  
 - Built predictive models: **Random Forest achieved 96% accuracy and 0.94 AUC**.  
-- Delivered actionable recommendations for HR: cap project load, address burnout, and refine promotion/evaluation policies.  
+- Delivered actionable recommendations for HR: cap project load, address burnout, and refine promotion/evaluation policies.
+- 
+###  Exploratory Data Analysis (EDA)
+
+**Correlation Heatmap**  
+Shows strong negative correlation between satisfaction and attrition, and positive correlations between project load, hours, and evaluations.  
+![Heatmap](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Heatmap_of_dataset.png)
+
+**Attrition Distribution**  
+Compares employees who left vs. stayed across key groups.  
+![Attrition](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Left_vs.stayed.png)
+
+---
+
+### 🤖 Modeling & Results
+
+**Logistic Regression – Confusion Matrix**  
+Baseline model achieved ~82% accuracy.  
+![Logistic Regression CM](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Logistic_Regression_CM%20(1).png)
+
+**Decision Tree – Splits**  
+Visualizing the splits shows project load and evaluation as key factors.  
+![Decision Tree Splits](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Decision_Tree_splits.png)
+
+**Random Forest – Confusion Matrix**  
+Best-performing model with 96% accuracy and 0.94 AUC.  
+![Random Forest CM](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Random_ForestCF.png)
+
+---
+
+###  Feature Importances
+
+**Decision Tree Feature Importance**  
+Highlights last evaluation, number of projects, and tenure as top predictors.  
+![DT Feature Importance](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Feature_Importance_decisionTree.png)
+
+**Random Forest Feature Importance**  
+Consistently identifies evaluation, projects, and overwork as strongest drivers of attrition.  
+![RF Feature Importance](https://github.com/SandleenSethi/Portfolio/blob/main/Image/Feature_importance_RandomForest.png)
+
+---
 **[View Project Repository ➝](https://github.com/SandleenSethi/Salifort-Motors)** 
 
 
