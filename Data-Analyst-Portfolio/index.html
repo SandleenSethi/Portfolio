@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandleen Sethi — Data Analyst</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+</head>
+<body>
+
+    <!-- Background Effects -->
+    <div class="bg-mesh"></div>
+    <div class="bg-blob blob-1"></div>
+    <div class="bg-blob blob-2"></div>
+    <div class="bg-blob blob-3"></div>
+    <div class="bg-noise"></div>
+
+    <!-- Navigation -->
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="#hero" class="nav-logo"></a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#journey">Journey</a></li>
+                <li><a href="#workflow">Process</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero">
+        <div class="hero-glow hero-glow-1"></div>
+        <div class="hero-glow hero-glow-2"></div>
+        <div class="hero-content">
+            <div class="hero-badge">
+                <span class="hero-badge-dot"></span>
+                Data Analyst
+            </div>
+            <h1 class="hero-name">Sandleen<br>Sethi</h1>
+            <p class="hero-tagline">Behind every dataset is a story — I turn data into insights that help organizations move forward.</p>
+            <div class="hero-actions">
+                <a href="#projects" class="btn btn-primary">
+                    <span>View Projects</span>
+                    <iconify-icon icon="lucide:arrow-right" width="16"></iconify-icon>
+                </a>
+                <a href="#contact" class="btn btn-ghost">Contact Me</a>
+            </div>
+            <div class="hero-socials">
+                <a href="https://www.linkedin.com/in/sandleen-sethi-776998335/" aria-label="LinkedIn"><iconify-icon icon="lucide:linkedin" width="18"></iconify-icon></a>
+                <a href="https://github.com/SandleenSethi" aria-label="GitHub"><iconify-icon icon="lucide:github" width="18"></iconify-icon></a>
+                <a href="sandleensethi09@gmail.com" aria-label="Email"><iconify-icon icon="lucide:mail" width="18"></iconify-icon></a>
+            </div>
+            <div class="hero-scroll">
+                <div class="scroll-line"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-text">
+                    <span class="section-tag">About</span>
+                    <h2 class="section-title">My Approach</h2>
+                    <p class="about-lead">Every meaningful solution begins with understanding the problem. I approach every project with curiosity, structure, and attention to detail, exploring data beyond the surface to uncover what truly matters.</p>
+                    <p>Whether validating assumptions, identifying patterns, or building interactive dashboards, I enjoy transforming complexity into clarity. To me, great analytics isn't just about finding answers—it's about asking the right questions and communicating insights with purpose.</p>
+                    <a href="assets/Data Analyst-Resume.pdf" class="btn btn-primary about-resume-btn" target="_blank">
+                        <iconify-icon icon="lucide:download" width="16"></iconify-icon>
+                        <span>Download Resume</span>
+                    </a>
+                </div>
+                <div class="about-image">
+                    <div class="about-photo-wrapper">
+                        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80" alt="Analytics dashboard on laptop" class="about-photo">
+                        <div class="about-photo-overlay"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <div class="container">
+            <div class="section-header center">
+                <span class="section-tag">Expertise</span>
+                <h2 class="section-title">Areas of Expertise</h2>
+                <p class="section-subtitle">Take a look at some of the areas I specialize in and love working on.</p>
+            </div>
+            <div class="expertise-grid">
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:code-2" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Programming & Querying</h3>
+                    <p class="expertise-desc">Extracting, transforming, and analyzing data efficiently using Python and SQL to build robust data pipelines.</p>
+                </div>
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:magnifying-glass-chart" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Data Analytics</h3>
+                    <p class="expertise-desc">Performing EDA, data cleaning, and transformation to uncover hidden patterns and solve complex business problems.</p>
+                </div>
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:pie-chart" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Visualization & BI</h3>
+                    <p class="expertise-desc">Creating interactive dashboards and compelling visual stories using Power BI, Tableau, and Excel.</p>
+                </div>
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:target" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Statistical Analysis</h3>
+                    <p class="expertise-desc">Utilizing descriptive statistics, hypothesis testing, and regression analysis to drive data-backed decision making.</p>
+                </div>
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:brain" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Machine Learning</h3>
+                    <p class="expertise-desc">Applying foundational ML techniques and predictive modeling to augment analytical findings and forecast trends.</p>
+                </div>
+                <div class="expertise-card">
+                    <div class="expertise-icon"><iconify-icon icon="lucide:users" width="26"></iconify-icon></div>
+                    <h3 class="expertise-title">Professional Skills</h3>
+                    <p class="expertise-desc">Effectively communicating data stories, collaborating with stakeholders, and presenting insights in business meetings.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="container">
+            <div class="section-header center">
+                <span class="section-tag">Case Studies</span>
+                <h2 class="section-title">Projects</h2>
+            </div>
+
+            <div class="projects-showcase">
+
+                <!-- PROJECT 01 -->
+                <div class="project-showcase-card" data-carousel>
+                    <div class="psc-header">
+                        <span class="psc-category">Business Intelligence Dashboard</span>
+                        <h3 class="psc-title">Supply Chain Optimization & Profitability Analysis</h3>
+                    </div>
+                    <div class="psc-carousel">
+                        <div class="psc-track">
+                            <div class="psc-slide active"><img src="https://z-cdn-media.chatglm.cn/files/1bf04384-80c7-4a87-ba5b-46d860077644.png?auth_key=1883728784-c1227e5eae2f404bb3832906a447e14a-0-27598a5a1bb3dc7f7911be1c16d6427e" alt="Supply Chain Dashboard"></div>
+                        </div>
+                        <button class="psc-nav prev"><iconify-icon icon="lucide:chevron-left" width="20"></iconify-icon></button>
+                        <button class="psc-nav next"><iconify-icon icon="lucide:chevron-right" width="20"></iconify-icon></button>
+                        <div class="psc-dots"><span class="active"></span></div>
+                    </div>
+                    <div class="psc-body">
+                        <p class="psc-desc">Analyzed supply chain performance, profitability, customer segments, markets, and shipping efficiency to identify business opportunities and operational improvements.</p>
+                        <div class="psc-tools"><span>Python</span><span>SQL</span><span>Power BI</span><span>Excel</span></div>
+                        <div class="psc-metrics">
+                            <div class="psc-metric"><span class="pm-value">66K+</span><span class="pm-label">Orders</span></div>
+                            <div class="psc-metric"><span class="pm-value">36.78M</span><span class="pm-label">Revenue</span></div>
+                            <div class="psc-metric"><span class="pm-value">10.78%</span><span class="pm-label">Profit Margin</span></div>
+                        </div>
+                        <div class="psc-insight">
+                            <iconify-icon icon="lucide:lightbulb" width="14"></iconify-icon>
+                            <span>Identified profitable categories, high-performing markets, and operational improvement opportunities.</span>
+                        </div>
+                        <div class="psc-actions">
+                            <a href="https://github.com/SandleenSethi/Supply-Chain-Optimization-Profitability-Analysis/blob/main/Power%20BI/Supply%20Chain%20Optimization%20%26%20Profitability.pbix" class="btn btn-primary btn-sm" target="_blank"><span>View Dashboard</span> <iconify-icon icon="lucide:external-link" width="14"></iconify-icon></a>
+                            <a href="https://github.com/SandleenSethi/Supply-Chain-Optimization-Profitability-Analysis/tree/main" class="btn btn-ghost btn-sm" target="_blank"><iconify-icon icon="lucide:github" width="14"></iconify-icon> <span>GitHub</span></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PROJECT 02 -->
+                <div class="project-showcase-card" data-carousel>
+                    <div class="psc-header">
+                        <span class="psc-category">Aviation Business Intelligence Dashboard</span>
+                        <h3 class="psc-title">Airline Delay & Performance Analytics</h3>
+                    </div>
+                    <div class="psc-carousel">
+                        <div class="psc-track">
+                            <div class="psc-slide active"><img src="https://z-cdn-media.chatglm.cn/files/f84717ae-f54e-4b64-bf68-5c1b35566f66.png?auth_key=1883728784-bfce596a6d474cf697cc4b20eaca1bee-0-d7001bce0323bab9e3cde2e7bd59eea7" alt="Airline Dashboard - Overview"></div>
+                            <div class="psc-slide"><img src="https://z-cdn-media.chatglm.cn/files/d3319303-2086-4cf3-a95f-22c102b652be.png?auth_key=1883728784-ab5433e1323148409e87c20fc59a229e-0-692fe3977d66f72982ba0ebfd486fc08" alt="Airline Dashboard - Deep Dive"></div>
+                            <div class="psc-slide"><img src="https://z-cdn-media.chatglm.cn/files/b80e1169-7f15-4e9f-b1fd-c56b1b26d3cd.png?auth_key=1883728784-25239828c97d4cb89fa421f20604c470-0-1c72caac05324ba2632b51821790a22c" alt="Airline Dashboard - Routes"></div>
+                            <div class="psc-slide"><img src="https://z-cdn-media.chatglm.cn/files/6ba2bce9-b9bb-46b4-ac8a-63c0f58d997e.png?auth_key=1883728784-cf74029e43cc4c2f82606f8040ad5b4c-0-58f0ea417742d4c67215891d49ec0423" alt="Airline Dashboard - Insights"></div>
+                        </div>
+                        <button class="psc-nav prev"><iconify-icon icon="lucide:chevron-left" width="20"></iconify-icon></button>
+                        <button class="psc-nav next"><iconify-icon icon="lucide:chevron-right" width="20"></iconify-icon></button>
+                        <div class="psc-dots">
+                            <span class="active"></span><span></span><span></span><span></span>
+                        </div>
+                    </div>
+                    <div class="psc-body">
+                        <p class="psc-desc">Built an end-to-end aviation analytics solution analyzing over 5 million flight records to uncover delay patterns, operational bottlenecks, airline performance trends, and network efficiency opportunities using Python, SQL, and Power BI.</p>
+                        <div class="psc-tools"><span>Python</span><span>SQL</span><span>Power BI</span></div>
+                        <div class="psc-metrics">
+                            <div class="psc-metric"><span class="pm-value">5M+</span><span class="pm-label">Flights Analyzed</span></div>
+                            <div class="psc-metric"><span class="pm-value">2.0M</span><span class="pm-label">Delayed Flights</span></div>
+                            <div class="psc-metric"><span class="pm-value">37.14%</span><span class="pm-label">Delay Rate</span></div>
+                            <div class="psc-metric"><span class="pm-value">9.77 min</span><span class="pm-label">Avg Delay</span></div>
+                        </div>
+                        <div class="psc-insight">
+                            <iconify-icon icon="lucide:lightbulb" width="14"></iconify-icon>
+                            <span>Identified late aircraft turnaround as the largest delay driver, highlighted high-risk congestion periods, and discovered critical airport and route bottlenecks affecting operational reliability.</span>
+                        </div>
+                        <div class="psc-actions">
+                            <a href="https://github.com/SandleenSethi/Airline-Delay-Performance-Analytics/tree/main/PowerBI_Dashboard" class="btn btn-primary btn-sm" target="_blank"><span>View Dashboard</span> <iconify-icon icon="lucide:external-link" width="14"></iconify-icon></a>
+                            <a href="https://github.com/SandleenSethi/Airline-Delay-Performance-Analytics" class="btn btn-ghost btn-sm" target="_blank"><iconify-icon icon="lucide:github" width="14"></iconify-icon> <span>GitHub</span></a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PROJECT 03 -->
+                <div class="project-showcase-card" data-carousel>
+                    <div class="psc-header">
+                        <span class="psc-category">FinTech Analytics · Quasi A/B Testing Dashboard</span>
+                        <h3 class="psc-title">Digital Payment Adoption & Fraud Risk Analysis</h3>
+                    </div>
+                    <div class="psc-carousel">
+                        <div class="psc-track">
+                            <div class="psc-slide active"><img src="https://z-cdn-media.chatglm.cn/files/218de321-6d04-48d7-af41-bf8b0db3d69c.png?auth_key=1883728784-8ca1caed9ef440c69464b5d28fba9472-0-3c000f400e4560ba5dc17c95f0ecb612" alt="Digital Payment Dashboard"></div>
+                        </div>
+                        <button class="psc-nav prev"><iconify-icon icon="lucide:chevron-left" width="20"></iconify-icon></button>
+                        <button class="psc-nav next"><iconify-icon icon="lucide:chevron-right" width="20"></iconify-icon></button>
+                        <div class="psc-dots"><span class="active"></span></div>
+                    </div>
+                    <div class="psc-body">
+                        <p class="psc-desc">Conducted a quasi-experimental A/B testing analysis to evaluate digital payment adoption, transaction behavior, and fraud risk. Analyzed 1 million transactions using Python-based statistical analysis to compare modern digital channels against traditional payment methods.</p>
+                        <div class="psc-tools"><span>Python</span><span>Statistics</span><span>Hypothesis Testing</span><span>Tableau</span></div>
+                        <div class="psc-metrics">
+                            <div class="psc-metric"><span class="pm-value">1M+</span><span class="pm-label">Transactions</span></div>
+                            <div class="psc-metric"><span class="pm-value">3K</span><span class="pm-label">Fraud Cases</span></div>
+                            <div class="psc-metric"><span class="pm-value">0.30%</span><span class="pm-label">Fraud Rate</span></div>
+                            <div class="psc-metric"><span class="pm-value">$156.9K</span><span class="pm-label">Avg Txn Value</span></div>
+                        </div>
+                        <div class="psc-insight">
+                            <iconify-icon icon="lucide:lightbulb" width="14"></iconify-icon>
+                            <span>Validated digital payment adoption patterns while identifying minimal fraud impact between digital and legacy channels. Recommended adaptive fraud monitoring and risk-based authentication strategies.</span>
+                        </div>
+                        <div class="psc-actions">
+                            <a href="https://github.com/SandleenSethi/quasi-ab-testing-fraud-analysis/tree/main/dashboard" class="btn btn-primary btn-sm" target="_blank"><span>View Dashboard</span> <iconify-icon icon="lucide:external-link" width="14"></iconify-icon></a>
+                            <a href="https://github.com/SandleenSethi/quasi-ab-testing-fraud-analysis" class="btn btn-ghost btn-sm" target="_blank"><iconify-icon icon="lucide:github" width="14"></iconify-icon> <span>GitHub</span></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Professional Journey Section -->
+    <section id="journey">
+        <div class="container">
+            <div class="section-header center">
+                <span class="section-tag">Journey</span>
+                <h2 class="section-title">Professional Journey</h2>
+            </div>
+            <div class="journey-grid">
+                <div class="journey-card">
+                    <div class="journey-content">
+                        <div class="journey-icon"><iconify-icon icon="lucide:briefcase" width="16"></iconify-icon></div>
+                        <span class="journey-label">Experience</span>
+                        <h3 class="journey-role">Data Analyst Intern</h3>
+                        <p class="journey-company">SoulVibe.Tech</p>
+                        <p class="journey-meta">Remote · July — September 2025</p>
+                        <div class="journey-tags"><span>Analytics</span><span>Reporting</span><span>Business Intelligence</span></div>
+                        <a href="certificates/internship certificate.png" class="journey-link" target="_blank">View Certificate <iconify-icon icon="lucide:external-link" width="12"></iconify-icon></a>
+                    </div>
+                </div>
+                <div class="journey-card">
+                    <div class="journey-content">
+                        <div class="journey-icon"><iconify-icon icon="lucide:flask-conical" width="16"></iconify-icon></div>
+                        <span class="journey-label">Simulation Experience</span>
+                        <h3 class="journey-role">Data Analytics Job Simulation</h3>
+                        <p class="journey-company">Quantium × Forage</p>
+                        <p class="journey-meta">July 2025</p>
+                        <div class="journey-tags"><span>Transaction Analysis</span><span>Uplift Testing</span><span>Business Insights</span></div>
+                        <a href="certificates/Quantium certificate.png" class="journey-link" target="_blank">View Certificate <iconify-icon icon="lucide:external-link" width="12"></iconify-icon></a>
+                    </div>
+                </div>
+                <div class="journey-card">
+                    <div class="journey-content">
+                        <div class="journey-icon"><iconify-icon icon="lucide:award" width="16"></iconify-icon></div>
+                        <span class="journey-label">Certification</span>
+                        <h3 class="journey-role">Google Advanced Data Analytics</h3>
+                        <p class="journey-company">Coursera</p>
+                        <p class="journey-meta">2025</p>
+                        <div class="journey-tags"><span>Python</span><span>Statistics</span><span>Regression</span><span>Machine Learning</span></div>
+                        <a href="certificates/Google Advanced Data Analytics Certificate.png" class="journey-link" target="_blank">View Certificate <iconify-icon icon="lucide:external-link" width="12"></iconify-icon></a>
+                    </div>
+                </div>
+                <div class="journey-card">
+                    <div class="journey-content">
+                        <div class="journey-icon"><iconify-icon icon="lucide:graduation-cap" width="16"></iconify-icon></div>
+                        <span class="journey-label">Education</span>
+                        <h3 class="journey-role">BS Information Technology</h3>
+                        <p class="journey-company">University of the Punjab</p>
+                        <p class="journey-meta">2023 — 2027</p>
+                        <div class="journey-tags"><span>Expected Graduation: 2027</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Workflow Section — FROM DATA TO DECISIONS -->
+    <section id="workflow">
+        <div class="container">
+            <div class="section-header center">
+                <span class="section-tag">Process</span>
+                <h2 class="section-title">From Data to Decisions</h2>
+                <p class="section-subtitle">How I transform raw data into meaningful business insights — a structured analytics journey.</p>
+            </div>
+            <div class="workflow-pipeline">
+                <div class="pipeline-connector">
+                    <div class="pipeline-line"></div>
+                    <div class="pipeline-node n1"></div>
+                    <div class="pipeline-node n2"></div>
+                    <div class="pipeline-node n3"></div>
+                    <div class="pipeline-node n4"></div>
+                    <div class="pipeline-node n5"></div>
+                </div>
+                <div class="workflow-steps">
+                    <div class="workflow-step" data-step="1">
+                        <div class="step-glass">
+                            <div class="step-header">
+                                <div class="step-icon-wrap">
+                                    <iconify-icon icon="lucide:crosshair" width="22"></iconify-icon>
+                                </div>
+                                <div class="step-meta">
+                                    <span class="step-number">01</span>
+                                    <h3 class="step-title">Define</h3>
+                                </div>
+                            </div>
+                            <p class="step-subtitle">Understanding the Problem</p>
+                            <p class="step-detail">Identify business objectives, key questions, and important KPIs before starting analysis.</p>
+                            <div class="step-hover-line"></div>
+                        </div>
+                    </div>
+                    <div class="workflow-step" data-step="2">
+                        <div class="step-glass">
+                            <div class="step-header">
+                                <div class="step-icon-wrap">
+                                    <iconify-icon icon="lucide:database" width="22"></iconify-icon>
+                                </div>
+                                <div class="step-meta">
+                                    <span class="step-number">02</span>
+                                    <h3 class="step-title">Prepare</h3>
+                                </div>
+                            </div>
+                            <p class="step-subtitle">Building Reliable Data</p>
+                            <p class="step-detail">Clean, transform, and validate raw datasets to create accurate analysis-ready data.</p>
+                            <div class="step-hover-line"></div>
+                        </div>
+                    </div>
+                    <div class="workflow-step" data-step="3">
+                        <div class="step-glass">
+                            <div class="step-header">
+                                <div class="step-icon-wrap">
+                                    <iconify-icon icon="lucide:scan-search" width="22"></iconify-icon>
+                                </div>
+                                <div class="step-meta">
+                                    <span class="step-number">03</span>
+                                    <h3 class="step-title">Explore</h3>
+                                </div>
+                            </div>
+                            <p class="step-subtitle">Finding Hidden Patterns</p>
+                            <p class="step-detail">Use SQL, Python, and statistical techniques to uncover trends, relationships, and performance drivers.</p>
+                            <div class="step-hover-line"></div>
+                        </div>
+                    </div>
+                    <div class="workflow-step" data-step="4">
+                        <div class="step-glass">
+                            <div class="step-header">
+                                <div class="step-icon-wrap">
+                                    <iconify-icon icon="lucide:chart-column-big" width="22"></iconify-icon>
+                                </div>
+                                <div class="step-meta">
+                                    <span class="step-number">04</span>
+                                    <h3 class="step-title">Visualize</h3>
+                                </div>
+                            </div>
+                            <p class="step-subtitle">Creating Data Stories</p>
+                            <p class="step-detail">Transform insights into interactive dashboards using Power BI and Tableau for effective decision-making.</p>
+                            <div class="step-hover-line"></div>
+                        </div>
+                    </div>
+                    <div class="workflow-step" data-step="5">
+                        <div class="step-glass">
+                            <div class="step-header">
+                                <div class="step-icon-wrap">
+                                    <iconify-icon icon="lucide:megaphone" width="22"></iconify-icon>
+                                </div>
+                                <div class="step-meta">
+                                    <span class="step-number">05</span>
+                                    <h3 class="step-title">Communicate</h3>
+                                </div>
+                            </div>
+                            <p class="step-subtitle">Turning Insights Into Action</p>
+                            <p class="step-detail">Present findings through clear storytelling and actionable recommendations.</p>
+                            <div class="step-hover-line"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <div class="section-header center">
+                <span class="section-tag">Contact</span>
+                <h2 class="section-title">Get In Touch</h2>
+            </div>
+            <div class="contact-center">
+                <p class="contact-lead">I'm always open to discussing data analytics projects, internship opportunities, or collaborations. Feel free to reach out.</p>
+                <div class="contact-links">
+                   
+                        <div class="contact-link-icon"><iconify-icon icon="lucide:mail" width="22"></iconify-icon></div>
+                        <div>
+                            <span class="contact-link-label">Email</span>
+                            <span class="contact-link-value">sandleensethi09@gmail.com </span>
+                        </div>
+                        
+                    </a>
+                   
+                        <div class="contact-link-icon"><iconify-icon icon="lucide:linkedin" width="22"></iconify-icon></div>
+                        <div>
+                            <span class="contact-link-label">LinkedIn</span>
+                            <span class="contact-link-value">https://www.linkedin.com/in/sandleen-sethi-776998335/</span>
+                        </div>
+                      
+                    </a>
+                   
+                        <div class="contact-link-icon"><iconify-icon icon="lucide:github" width="22"></iconify-icon></div>
+                        <div>
+                            <span class="contact-link-label">GitHub</span>
+                            <span class="contact-link-value">https://github.com/SandleenSethi</span>
+                        </div>
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="footer">
+        <div class="container">
+            <div class="footer-content">
+                <p class="footer-copy">&copy; <span id="currentYear"></span> Sandleen Sethi. All rights reserved.</p>
+                <div class="footer-socials">
+                    <a href="https://www.linkedin.com/in/sandleen-sethi-776998335/" aria-label="LinkedIn"><iconify-icon icon="lucide:linkedin" width="16"></iconify-icon></a>
+                    <a href="https://github.com/SandleenSethi" aria-label="GitHub"><iconify-icon icon="lucide:github" width="16"></iconify-icon></a>
+                    <a href="sandleensethi09@gmail.com" aria-label="Email"><iconify-icon icon="lucide:mail" width="16"></iconify-icon></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="toast" id="toast">
+        <iconify-icon icon="lucide:check-circle" width="20"></iconify-icon>
+        <span id="toastMessage">Message sent!</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
